@@ -3,7 +3,7 @@
 	"description":"Java templates plugin",
 	"version":"1.0.0",
 	"author":"Vibha sharma",
-	"repository":"https://github.com/vibha-sharma11/custom-monokle-template",
+	"repository":" https://github.com/vibha-sharma11/custom-monokle-template ",
 	"monoklePlugin":{
 		"modules":[
 			{
