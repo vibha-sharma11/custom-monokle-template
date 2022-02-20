@@ -1,5 +1,5 @@
 {
-    "name": "Template plugins",
+    "name": "Template plugin",
     "description": "Node.js templates plugin",
     "version": "1.0.0",
     "author": "Vibha Sharma",
@@ -8,7 +8,7 @@
       "modules": [
         {
           "type": "template",
-          "path": "node.js-template"
+          "path": "Java-template"
         }
       ]
     }
