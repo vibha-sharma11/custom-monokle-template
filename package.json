@@ -1,0 +1,15 @@
+{
+    "name": "Template plugins",
+    "description": "Node.js templates plugin",
+    "version": "1.0.0",
+    "author": "Vibha Sharma",
+    "repository": "https://github.com/vibha-sharma11/custom-monokle-template",
+    "monoklePlugin": {
+      "modules": [
+        {
+          "type": "template",
+          "path": "node.js-template"
+        }
+      ]
+    }
+  }

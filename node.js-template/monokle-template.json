@@ -1,0 +1,24 @@
+{
+    "name": "Basic Kubernetes Pod",
+    "id": "com.github.vibha-sharma11.plugin.templates.custom-monokle-template",
+    "author": "Vibha Sharma",
+    "version": "1.0.0",
+    "description": "Creates a Pod for a specified Image",
+    "repository": "",
+    "type": "vanilla",
+    "forms": [
+      {
+        "name": "Pod Settings",
+        "description": "Specify the settings for your Pod",
+        "schema": "form-schema.json",
+        "uiSchema": "form-ui-schema.json"
+      }
+    ],
+    "manifests": [
+      {
+        "filePath": "template.yaml"
+      }
+    ],
+    "resultMessage": "Your Pod resource created successfully!",
+    "helpUrl": "https://github.com/vibha-sharma11/monokle-templates-plugin"
+  }
