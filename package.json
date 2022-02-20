@@ -1,6 +1,6 @@
 {
-    "name": "Template plugins",
-    "description": "Node.js templates plugin",
+    "name": "Templates plugin",
+    "description": "Node.js template plugin",
     "version": "1.0.0",
     "author": "Vibha Sharma",
     "repository": "https://github.com/vibha-sharma11/custom-monokle-template",
